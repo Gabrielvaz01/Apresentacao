@@ -97,7 +97,6 @@ while True:
         
 print("")
 print(f"Número de agência(s) registrados no sistema: {numero_agencia_bd}")
-
 while True:
     try:
         agencia_desejada = int(input("Digite o número da agência que deseja: "))
